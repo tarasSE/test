@@ -1,26 +1,32 @@
 [
-    {
-        title: 'Title',
-        link: 'https://google.com',
-        cover: 'https://picsum.photos/700',
-        description: 'Description',
-        categories: ['Development'],
-        priority: 1
-    },
-    {
-        title: 'Title',
-        link: 'https://youtu.be/MtN1YnoL46Q',
-        cover: '',
-        description: 'Description',
-        categories: ['Development'],
-        priority: 1
-    },
-    {
-        title: 'The Duck Song',
-        link: 'https://youtu.be/MtN1YnoL46Q',
-        cover: '',
-        description: 'Song by Bryant Oden. Video by Forrest Whaley. iOS app out now! Works on iPod Touch, iPad, & iPhone... ',
-        categories: ['Fun'],
-        priority: 5
-    }
+  {
+    "title": "Title",
+    "link": "https://google.com",
+    "cover": "https://picsum.photos/700",
+    "description": "Description",
+    "categories": [
+      "Development"
+    ],
+    "priority": 1
+  },
+  {
+    "title": "Title",
+    "link": "https://youtu.be/MtN1YnoL46Q",
+    "cover": "",
+    "description": "Description",
+    "categories": [
+      "Development"
+    ],
+    "priority": 1
+  },
+  {
+    "title": "The Duck Song",
+    "link": "https://youtu.be/MtN1YnoL46Q",
+    "cover": "",
+    "description": "Song by Bryant Oden. Video by Forrest Whaley. iOS app out now! Works on iPod Touch, iPad, & iPhone... ",
+    "categories": [
+      "Fun"
+    ],
+    "priority": 5
+  }
 ]
